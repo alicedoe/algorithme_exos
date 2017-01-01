@@ -1,1 +1,1 @@
-# algorithme_exos
+# algorithme_exos 8 exercices en Java
